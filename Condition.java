@@ -5,7 +5,6 @@ public class Condition {
         System.out.println("Enter a nubmer");
         Scanner sc = new Scanner(System.in);
         int age = sc.nextInt();
-System.out.println(age);
         if(age % 2 == 0) {
             System.out.println("Even");
         } else {
