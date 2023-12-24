@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Conditions {
+public class Adult {
     public static void main(String args[]) {
         Scanner sc = new Scanner(System.in);
         int age = sc.nextInt();

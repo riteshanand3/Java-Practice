@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Condition {
+public class Evenodd {
     public static void main(String args[]) {
         System.out.println("Enter a nubmer");
         Scanner sc = new Scanner(System.in);

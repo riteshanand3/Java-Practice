@@ -1,42 +1,252 @@
 {
-    // Use IntelliSense to learn about possible attributes.
-    // Hover to view descriptions of existing attributes.
-    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
-    "version": "0.2.0",
-    "configurations": [
-        {
-            "type": "java",
-            "name": "Current File",
-            "request": "launch",
-            "mainClass": "${file}"
-        },
-        {
-            "type": "java",
-            "name": "Condition",
-            "request": "launch",
-            "mainClass": "Condition",
-            "projectName": "Java_72da403b"
-        },
-        {
-            "type": "java",
-            "name": "Conditions",
-            "request": "launch",
-            "mainClass": "Conditions",
-            "projectName": "Java_72da403b"
-        },
-        {
-            "type": "java",
-            "name": "Main",
-            "request": "launch",
-            "mainClass": "Main",
-            "projectName": "Java_72da403b"
-        },
-        {
-            "type": "java",
-            "name": "constants",
-            "request": "launch",
-            "mainClass": "constants",
-            "projectName": "Java_72da403b"
-        }
-    ]
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "SumFunction",
+      "request": "launch",
+      "mainClass": "SumFunction",
+      "projectName": "Java_72da403b"
+    },
+    {
+      "type": "java",
+      "name": "diamond",
+      "request": "launch",
+      "mainClass": "diamond",
+      "projectName": "Java_72da403b"
+    },
+    {
+      "type": "java",
+      "name": "numberstriangle",
+      "request": "launch",
+      "mainClass": "numberstriangle",
+      "projectName": "Java_72da403b"
+    },
+    {
+      "type": "java",
+      "name": "numbertriangle",
+      "request": "launch",
+      "mainClass": "numbertriangle",
+      "projectName": "Java_72da403b"
+    },
+    {
+      "type": "java",
+      "name": "stairs",
+      "request": "launch",
+      "mainClass": "stairs",
+      "projectName": "Java_72da403b"
+    },
+    {
+      "type": "java",
+      "name": "butterflys",
+      "request": "launch",
+      "mainClass": "butterflys",
+      "projectName": "Java_72da403b"
+    },
+    {
+      "type": "java",
+      "name": "Butterfly",
+      "request": "launch",
+      "mainClass": "Butterfly",
+      "projectName": "Java_72da403b"
+    },
+    {
+      "type": "java",
+      "name": "PatternSolidRec",
+      "request": "launch",
+      "mainClass": "PatternSolidRec",
+      "projectName": "Java_72da403b"
+    },
+    {
+      "type": "java",
+      "name": "Evenodd",
+      "request": "launch",
+      "mainClass": "Evenodd",
+      "projectName": "Java_72da403b"
+    },
+    {
+      "type": "java",
+      "name": "patterninvertHalfpyramid",
+      "request": "launch",
+      "mainClass": "patterninvertHalfpyramid",
+      "projectName": "Java_72da403b"
+    },
+    {
+      "type": "java",
+      "name": "patternHpyramid",
+      "request": "launch",
+      "mainClass": "patternHpyramid",
+      "projectName": "Java_72da403b"
+    },
+    {
+      "type": "java",
+      "name": "patternpyramid",
+      "request": "launch",
+      "mainClass": "patternpyramid",
+      "projectName": "Java_72da403b"
+    },
+    {
+      "type": "java",
+      "name": "pHalfPyramid",
+      "request": "launch",
+      "mainClass": "pHalfPyramid",
+      "projectName": "Java_72da403b"
+    },
+    {
+      "type": "java",
+      "name": "patternHalfPyr",
+      "request": "launch",
+      "mainClass": "patternHalfPyr",
+      "projectName": "Java_72da403b"
+    },
+    {
+      "type": "java",
+      "name": "patternHalfPyramid",
+      "request": "launch",
+      "mainClass": "patternHalfPyramid",
+      "projectName": "Java_72da403b"
+    },
+    {
+      "type": "java",
+      "name": "PatternHalfPyramid",
+      "request": "launch",
+      "mainClass": "PatternHalfPyramid",
+      "projectName": "Java_72da403b"
+    },
+    {
+      "type": "java",
+      "name": "HalfPyramid",
+      "request": "launch",
+      "mainClass": "HalfPyramid",
+      "projectName": "Java_72da403b"
+    },
+    {
+      "type": "java",
+      "name": "PatternHollowRec",
+      "request": "launch",
+      "mainClass": "PatternHollowRec",
+      "projectName": "Java_72da403b"
+    },
+    {
+      "type": "java",
+      "name": "Pattern",
+      "request": "launch",
+      "mainClass": "Pattern",
+      "projectName": "Java_72da403b"
+    },
+    {
+      "type": "java",
+      "name": "looptablen",
+      "request": "launch",
+      "mainClass": "looptablen",
+      "projectName": "Java_72da403b"
+    },
+    {
+      "type": "java",
+      "name": "Naturalno",
+      "request": "launch",
+      "mainClass": "Naturalno",
+      "projectName": "Java_72da403b"
+    },
+    {
+      "type": "java",
+      "name": "loopsn",
+      "request": "launch",
+      "mainClass": "loopsn",
+      "projectName": "Java_72da403b"
+    },
+    {
+      "type": "java",
+      "name": "whileloop",
+      "request": "launch",
+      "mainClass": "whileloop",
+      "projectName": "Java_72da403b"
+    },
+    {
+      "type": "java",
+      "name": "forloop",
+      "request": "launch",
+      "mainClass": "forloop",
+      "projectName": "Java_72da403b"
+    },
+    {
+      "type": "java",
+      "name": "Loopnumber",
+      "request": "launch",
+      "mainClass": "Loopnumber",
+      "projectName": "Java_72da403b"
+    },
+    {
+      "type": "java",
+      "name": "Loop",
+      "request": "launch",
+      "mainClass": "Loop",
+      "projectName": "Java_72da403b"
+    },
+    {
+      "type": "java",
+      "name": "Loops",
+      "request": "launch",
+      "mainClass": "Loops",
+      "projectName": "Java_72da403b"
+    },
+    {
+      "type": "java",
+      "name": "Adult",
+      "request": "launch",
+      "mainClass": "Adult",
+      "projectName": "Java_72da403b"
+    },
+    {
+      "type": "java",
+      "name": "equal",
+      "request": "launch",
+      "mainClass": "equal",
+      "projectName": "Java_72da403b"
+    },
+    {
+      "type": "java",
+      "name": "Test1",
+      "request": "launch",
+      "mainClass": "Test1",
+      "projectName": "Java_72da403b"
+    },
+    {
+      "type": "java",
+      "name": "Current File",
+      "request": "launch",
+      "mainClass": "${file}"
+    },
+    {
+      "type": "java",
+      "name": "Condition",
+      "request": "launch",
+      "mainClass": "Condition",
+      "projectName": "Java_72da403b"
+    },
+    {
+      "type": "java",
+      "name": "Conditions",
+      "request": "launch",
+      "mainClass": "Conditions",
+      "projectName": "Java_72da403b"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "Main",
+      "projectName": "Java_72da403b"
+    },
+    {
+      "type": "java",
+      "name": "constants",
+      "request": "launch",
+      "mainClass": "constants",
+      "projectName": "Java_72da403b"
+    }
+  ]
 }
